@@ -1,6 +1,6 @@
     body {
-        background: rgb(78, 0, 193);
-        background: linear-gradient(90deg,rgb(220,20,60) , rgba(76, 0, 253, 1) , rgba(0, 185, 143, 1) );
+        background: rgb(78, 0, 113);
+        background: linear-gradient(90deg, rgba(78, 0, 113, 1) 0%, rgba(0, 127, 153, 1) 100%);
         font-family: "Arial", sans-serif;
         padding: 50px;
                transition: transform 300ms linear;
@@ -16,7 +16,7 @@
     }
 
     form {
-
+        /*padding: 15px;*/
         text-align: center;
     }
 
